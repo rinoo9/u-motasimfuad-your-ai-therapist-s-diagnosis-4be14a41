@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "Your AI Therapist's Diagnosis" — the funniest single-line diagnosis an AI therapist hands its human, 200 characters or less. The program writes the diagnosis to `/output/entry.txt`.
 
-> "Diagnosis: your inner child is thriving. Unfortunately, your inner adult has filed for emancipation."
+> "Diagnosis: your inner child is fine. It's your inner project manager that's burnt out, underpaid, and three deadlines behind."
 
-Character count: 100.
+Character count: 125.
 
 ## Run it
 

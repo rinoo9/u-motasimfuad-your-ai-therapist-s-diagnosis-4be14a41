@@ -5,7 +5,7 @@ diagnosis from an AI therapist to /output/entry.txt. No input, no
 randomness, no network -- the same line on every run.
 """
 
-LINE = "Diagnosis: your inner child is thriving. Unfortunately, your inner adult has filed for emancipation."
+LINE = "Diagnosis: your inner child is fine. It's your inner project manager that's burnt out, underpaid, and three deadlines behind."
 
 
 def main():
